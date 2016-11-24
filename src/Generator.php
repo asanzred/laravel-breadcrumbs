@@ -1,4 +1,4 @@
-<?php namespace DaveJamesMiller\Breadcrumbs;
+<?php namespace Epyc\Breadcrumbs;
 
 class Generator {
 

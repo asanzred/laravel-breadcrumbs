@@ -7,7 +7,7 @@ class DependantServiceProviderErrorTest extends TestCase {
 		return [
 			// These are in the wrong order
 			DependantServiceProviderError::class,
-			DaveJamesMiller\Breadcrumbs\ServiceProvider::class,
+			Epyc\Breadcrumbs\ServiceProvider::class,
 		];
 	}
 
